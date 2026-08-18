@@ -1,4 +1,4 @@
-preco = float(input("Digite o preço de fábrica: R$ "))
+preco = float(input())
 
 valor_final = preco + (preco * 0.30)
 
