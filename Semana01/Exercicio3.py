@@ -1,4 +1,4 @@
-numero = float(input("Digite um número: "))
+numero = float(input())
 
 dobro = numero * 2
 metade = numero / 2
