@@ -1,4 +1,4 @@
-cavalos = int(input("Digite o número de cavalos: "))
+cavalos = int(input())
 
 valor = cavalos * 4 * 80
 
