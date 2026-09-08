@@ -1,4 +1,4 @@
-pacotes = int(input("Digite a quantidade total de pacotes: "))
+pacotes = int(input("Digite a quantidade total de pagodes: "))
 caixas = int(input("Digite a quantidade de caixas disponíveis: "))
 
 quantidade = pacotes // caixas
