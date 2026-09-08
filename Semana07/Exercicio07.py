@@ -12,10 +12,10 @@ while pessoa <= 20:
     if vezes > maior:
         maior = vezes
 
-    if vezes < menor:
+    elif vezes < menor:
         menor = vezes
 
-    if vezes >= 7:
+    elif vezes >= 7:
         todos = todos + 1
 
     pessoa = pessoa + 1
