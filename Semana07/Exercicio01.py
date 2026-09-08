@@ -6,7 +6,7 @@ dia_maior = 0
 dia_menor = 0
 
 while dia <= 7:
-    producao = float(input("Digite a produção do dia {dia} (kg): "))
+    producao = float(input(f"Digite a produção do dia {dia} (kg): "))
 
     total += producao
 
