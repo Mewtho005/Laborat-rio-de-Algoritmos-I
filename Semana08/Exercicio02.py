@@ -5,4 +5,4 @@ while agua >= 45:
     agua -= 45
     cuias += 1
 
-print("Quantidade de cuias completas:", cuias)
+print("Quantidade de cuias enchidas:", cuias)
