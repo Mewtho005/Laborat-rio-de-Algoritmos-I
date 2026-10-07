@@ -4,12 +4,11 @@
 
 def ola():
     print("Olá")
-
-def olam():
+def tchau():
     print("Tchau")
 
 def main():
     ola()
-    olam()
+    tchau()
 
 main()
