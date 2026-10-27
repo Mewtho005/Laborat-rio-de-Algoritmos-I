@@ -1,4 +1,4 @@
-def calcularCompra(quantidade):
+def calcularcompra(quantidade):
     if quantidade <= 12:
         total = quantidade * 0.40
     else:
@@ -9,7 +9,7 @@ def calcularCompra(quantidade):
 def main():
     laranjas = int(input("Digite a quantidade de laranjas compradas: "))
     
-    valortotal = calcularCompra(laranjas)
+    valortotal = calcularcompra(laranjas)
     
     print("Valor total: R$", valortotal)
 
