@@ -1,0 +1,15 @@
+def calcular():
+    producao = []
+    soma = 0
+
+    for i in range(5):
+        valor = int(input("Digite a produção em kg: "))
+        producao.append(valor)
+        soma += valor
+
+    media = soma / 5
+
+    print("Soma total:", soma)
+    print("Média:", media)
+
+calcular()
