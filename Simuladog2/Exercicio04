@@ -1,0 +1,7 @@
+Na linha 5, dado = 5.
+O laço executa 15 vezes.
+A função recebe o valor 5 pelo parâmetro valor.
+Dentro da função, o valor passa a ser 6.
+Porém, essa alteração acontece somente dentro da função.
+
+A resposta é o numero 5
